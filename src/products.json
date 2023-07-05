@@ -1,0 +1,29 @@
+[
+	{
+		"id": 1,
+		"title": "air",
+		"descritpion": "zapatillas",
+		"price": 10000,
+		"thumbnail": null,
+		"code": 1234,
+		"stock": 5
+	},
+	{
+		"id": 2,
+		"title": "earth",
+		"descritpion": "ojotas",
+		"price": 100,
+		"thumbnail": null,
+		"code": 1235,
+		"stock": 5
+	},
+    {
+		"id": 3,
+		"title": "water",
+		"descritpion": "zapatos",
+		"price": 11000,
+		"thumbnail": null,
+		"code": 54321,
+		"stock": 32
+	}
+]
