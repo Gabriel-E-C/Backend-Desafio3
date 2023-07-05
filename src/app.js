@@ -1,9 +1,9 @@
-const {ProductManager} = require ("./productManager");
+import {ProductManager} from "./productManager.js";
 import express from "express";
 
-const path = "./products.json";
-const app = express ();
 const port = 8080;
+const path = "./products.json";
+const app = express();
 
 const prodManager = new ProductManager(path);
 
